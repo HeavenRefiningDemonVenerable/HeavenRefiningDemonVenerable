@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HeavenRefiningDemonVenerable.github.io/static/css/main.a54753e3.css",
-    "main.js": "/HeavenRefiningDemonVenerable.github.io/static/js/main.a506204f.js",
-    "static/js/787.fb771931.chunk.js": "/HeavenRefiningDemonVenerable.github.io/static/js/787.fb771931.chunk.js",
-    "static/media/proj3.png": "/HeavenRefiningDemonVenerable.github.io/static/media/proj3.93aa0c547514bf1901ee.png",
-    "index.html": "/HeavenRefiningDemonVenerable.github.io/index.html",
-    "main.a54753e3.css.map": "/HeavenRefiningDemonVenerable.github.io/static/css/main.a54753e3.css.map",
-    "main.a506204f.js.map": "/HeavenRefiningDemonVenerable.github.io/static/js/main.a506204f.js.map",
-    "787.fb771931.chunk.js.map": "/HeavenRefiningDemonVenerable.github.io/static/js/787.fb771931.chunk.js.map"
+    "main.css": "/HeavenRefiningDemonVenerable/static/css/main.a54753e3.css",
+    "main.js": "/HeavenRefiningDemonVenerable/static/js/main.5b69a0e5.js",
+    "static/js/787.fb771931.chunk.js": "/HeavenRefiningDemonVenerable/static/js/787.fb771931.chunk.js",
+    "static/media/proj3.png": "/HeavenRefiningDemonVenerable/static/media/proj3.93aa0c547514bf1901ee.png",
+    "index.html": "/HeavenRefiningDemonVenerable/index.html",
+    "main.a54753e3.css.map": "/HeavenRefiningDemonVenerable/static/css/main.a54753e3.css.map",
+    "main.5b69a0e5.js.map": "/HeavenRefiningDemonVenerable/static/js/main.5b69a0e5.js.map",
+    "787.fb771931.chunk.js.map": "/HeavenRefiningDemonVenerable/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a54753e3.css",
-    "static/js/main.a506204f.js"
+    "static/js/main.5b69a0e5.js"
   ]
 }
